@@ -1,4 +1,7 @@
-# AngularCrash
+# Angular-Traversymedia-Course
+This project was made using Youtube Angular course made by Traversy Media called "Angular Crash Course"
+
+## AngularCrash
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
